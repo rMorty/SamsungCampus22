@@ -10,22 +10,22 @@ True, autonomous and semi-autonomous cars lend a big hand in these cases. But th
 ## Our product
 Our solution is a smarttband, equipped with sensors aimed at measuring body temperature, heart rate, sweating and the driver's galvanic response. The bracelet monitors the driver's stress state and communicates with the car to perform certain actions.  
 Three main stress levels are identified:  
-1. No stress  
+1. **No stress**  
 ![1](images/ourproduct1.jpeg)  
 In case the user is not stressed, the autonomous (or semi-autonomous that is) car will continue without any change. The bracelet will continue to monitor the driver.  
 
-2. Mild stress from change of environment  
+2. **Mild stress from change of environment**  
 ![2](images/ourproduct2.jpeg)  
 In the case of a slight increase in heart rate, the bracelet will notify the car of the driver's state and trigger certain functions, such as starting soothing background music and changing the route to a less busy and difficult road. Other functions that could be implemented could be encouraging air recirculation through window opening or changing car brightness (a momentary state of photophobia can raise the driver's stress level, according to a Bavaria Clinic study conducted by Dr. Marco Moschi).  
 
-3. High stress  
+3. **High stress**  
 ![3](images/ourproduct3.jpeg)  
 The last level, on the other hand, is the most interactive. The functions of route change and music remain, but in case the stress does not hint at going down it will be the car itself that will recommend a stop to the passenger and give the user the opportunity to contact the carsharing company's assistance.  
 The data will be collected, analyzed and processed by us, and the Car Sharing company will have a record of the drivers' driving behavior. Thus, we directly address the companies by proposing a device that will reassure the driver in stressful situations.  
 
 ## Why buy the product ?
 Because we are able, through our product, to broaden the car rental catchment area to include that segment of people who suffer from amaxophobia or are wont to avoid the driving environment in general, bringing in new customers who would otherwise have preferred other solutions considered by them to be safer.  
-In addition, we are a driver's ace in the hole ("Trump card"), ensuring an enjoyable driving experience. A satisfied customer will not need to look for another company to rely on. This will create a Costumer Retention mechanism, which will bring more profit to the company. In short, more and more consistent customers.  
+In addition, we are a driver's ace in the hole ("*Trump card*"), ensuring an enjoyable driving experience. A satisfied customer will not need to look for another company to rely on. This will create a Costumer Retention mechanism, which will bring more profit to the company. In short, more and more consistent customers.  
 The data collected and processed will be sent to the company on a monthly basis. An activity census will be conducted by us for each car equipped with a wristband. The drivers' data will be anonymous, but the stress levels collected may be useful to the company for upcoming market decisions. For example, if it is noticed that one car has been collecting higher stress levels on average than others, we will take care of pointing out this data to the company so that she can act accordingly (perform a vehicle overhaul or review agreements with that particular brand). They can also be used as a bragging point for advertising campaigns. 
 
 
